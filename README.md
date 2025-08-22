@@ -69,14 +69,21 @@ Authentication based on unique biological traits.
 
 **Types of Biometric Authentication:**
 
-Type	Example
-Fingerprint Recognition	Mobile phone unlock, attendance systems
-Facial Recognition	Apple Face ID, airport security
-Iris Recognition	High-security labs, border control
-Retina Scan	Rare, highly secure (analyzes eye blood vessels)
-Voice Recognition	Phone banking, smart assistants
-Hand Geometry	Some physical access systems
-Behavioral Biometrics	Typing speed, walking style, touchscreen pattern
+## Type--------------------------------------------------------	Example
+
+Fingerprint Recognition --------------------------------	Mobile phone unlock, attendance systems
+
+Facial Recognition----------------------------------	Apple Face ID, airport security
+
+Iris Recognition----------------------------------	High-security labs, border control
+
+Retina Scan ------------------------------------	Rare, highly secure (analyzes eye blood vessels)
+
+Voice Recognition---------------------------------	Phone banking, smart assistants
+
+Hand Geometry-------------------------------------	Some physical access systems
+
+Behavioral Biometrics -------------------------	Typing speed, walking style, touchscreen pattern
 
 ## Summary:
 
